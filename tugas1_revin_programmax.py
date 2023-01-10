@@ -1,0 +1,11 @@
+print("==== MENENTUKAN PROGRAM MAX ====")
+
+bilangan1 = int(input("masukan bilangan1 :"))
+bilangan2 = int(input("masukan bilangan2 :"))
+bilangan3 = int(input("masukan bilangan3 :"))
+
+if bilangan1 > bilangan2 and bilangan1 > bilangan3 :
+    print(bilangan1 , "bilangan terbesar")
+elif bilangan2 > bilangan1 and bilangan2 > bilangan3 :
+    print(bilangan2 , "bilangan terbesar")
+else : print(bilangan3 , "bilangan terbesar")

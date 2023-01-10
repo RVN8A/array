@@ -1,0 +1,10 @@
+#judul
+===== KALKULATOR SEDERHANA =====
+#deklari variabel sederhana angka1, angkan2
+
+#proses penjumlahan ditampung ke dalam
+variabel
+        hasil = angka1 + angka2
+
+#output
+        angka1 + angka2 = hasil
